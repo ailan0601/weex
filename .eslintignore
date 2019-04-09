@@ -1,0 +1,5 @@
+/configs/
+/dist/
+/*.js
+/test/unit/coverage/
+/node_modules/
